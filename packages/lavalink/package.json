@@ -1,0 +1,33 @@
+{
+  "name": "@darkcord/lavalink",
+  "version": "0.1.0",
+  "description": "Library to add voice support using Lavalink for Darkcord",
+  "author": "WearifulCupid0",
+  "license": "Apache-2.0",
+  "keywords": [
+    "node",
+    "lavalink",
+    "voice"
+  ],
+  "contributors": [
+    {
+      "name": "Liy",
+      "url": "https://github.com/JustAWaifuHunter",
+      "email": "liy@denkylabs.com"
+    }
+  ],
+  "scripts": {
+    "lint": "eslint",
+    "lint:fix": "eslint --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/denkylabs/darkcord.git"
+  },
+  "bugs": {
+    "url": "https://github.com/denkylabs/darkcord/issues"
+  },
+  "engines": {
+    "node": ">=16.9.0"
+  }
+}
